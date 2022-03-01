@@ -117,7 +117,7 @@ $("#enviarDatos").on("click",function(){
         )
     }
 
-    if(cap_edad<=49 && cap_objetivo === "+ Masa muscular" && cap_genero==="masculino"){
+    if(cap_objetivo === "+ Masa muscular" && cap_genero==="masculino"){
             
         $.get("../javascript/masamuscular_man.json",function (respuesta, estado){
             if (estado==="success"){
@@ -156,7 +156,7 @@ $("#enviarDatos").on("click",function(){
                 
         });
 
-    }if(cap_edad<=49 && cap_objetivo === "Tonificar" && cap_genero==="masculino"){
+    }if(cap_objetivo === "Tonificar" && cap_genero==="masculino"){
         $.get("../javascript/tonificar_man.json",function (respuesta, estado){
             if (estado==="success"){
 
@@ -195,7 +195,7 @@ $("#enviarDatos").on("click",function(){
         });
 
     
-    } if(cap_edad<=49 && cap_objetivo === "+ Masa muscular" && cap_genero==="femenino"){
+    } if(cap_objetivo === "+ Masa muscular" && cap_genero==="femenino"){
         $.get("../javascript/masamuscular_women.json",function (respuesta, estado){
             if (estado==="success"){
 
@@ -234,7 +234,7 @@ $("#enviarDatos").on("click",function(){
         });
 
 
-    } if((cap_edad<=49 && cap_objetivo === "Tonificar" && cap_genero==="femenino")){
+    } if((cap_objetivo === "Tonificar" && cap_genero==="femenino")){
         $.get("../javascript/tonificar_women.json",function (respuesta, estado){
             if (estado==="success"){
 
