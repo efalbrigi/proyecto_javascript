@@ -1,0 +1,109 @@
+[
+    {
+      "dia":"Lunes",
+      "zona":"Piernas", 
+      "rutinas":[
+            { 
+            "Ejercicio": "Sentadillas", 
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones", 
+            "Instrucciones": "../img/gif/piernas_fem/sentadilla_barra.gif"
+            },
+            {
+            "Ejercicio": "Prensa en máquina",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/prensa.gif"
+            },
+            {
+            "Ejercicio": "Peso Muerto",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/peso_muerto.gif"
+            },
+            {
+            "Ejercicio": "Extensiones",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/gemelos.gif"
+            },
+
+            {
+            "Ejercicio": "Elevaciones de Gluteos",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/elevaciones_gluteo.gif"
+            },
+
+            {
+            "Ejercicio": "Extensiones en polea",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/extensiones_polea.gif"
+            },
+
+            {
+            "Ejercicio": "Peso Muerto con Mancuerna",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/peso_muerto_mancuerna.gif"
+            },
+
+            {
+            "Ejercicio": "Extensiones en polea",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/piernas_fem/extensiones_polea.gif"
+            }
+        ]
+    },
+
+    {
+      "dia":"Martes",
+      "zona":"Pectorales", 
+      "rutinas":[
+            {
+            "Ejercicio": "Apertura con mancuernas", 
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones", 
+            "Instrucciones": "../img/gif/pectoral/apertura_mancuernas.gif"
+            },
+            {
+                "Ejercicio": "Cruces en polea",
+                "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+                "Instrucciones": "../img/gif/pectoral/cruces_enpolea.gif"
+            },
+            {
+                "Ejercicio": "Press Banca declinado",
+                "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+                "Instrucciones": "../img/gif/pectoral/pressbanca_decline.gif"
+            }
+        ]
+    },
+    {
+        "dia":"Miercoles",
+        "zona":"Hombros", 
+        "rutinas":[
+          {
+            "Ejercicio": "Press Militar con mancuernas", 
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones", 
+            "Instrucciones": "../img/gif/hombros/press-militar.gif"
+          },
+          {
+              "Ejercicio": "Vuelos Frontal Completo",
+              "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+              "Instrucciones": "../img/gif/hombros/vuelo_frontal.gif"
+          },
+          {
+              "Ejercicio": "Vuelo Frontal Simple",
+              "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+              "Instrucciones": "../img/gif/hombros/vuelo_frontal_completo.gif"
+          },
+    
+          {
+            "Ejercicio": "Vuelo Lateral con mancuerna",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/hombros/vuelo_lateral.gif"
+          },
+    
+          {
+            "Ejercicio": "Vuelo Lateral en polea",
+            "Series": "4 series x 12 - 10 - 8 - 6 repeticiones",
+            "Instrucciones": "../img/gif/hombros/vuelo_lateral_polea.gif"
+          }
+        ]
+    }
+    
+]
+
